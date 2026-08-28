@@ -52,33 +52,25 @@ The `dplyr` and `ggplot2` libraries were then loaded for data transformation and
 
 ### 2. Total Budget by Department
 
-The first visualization groups the data by department and calculates the total budget allocated to each department.
+The first visualization groups the data by department and calculates the total budget allocated to each department. This visualization makes it possible to compare the overall budget levels across departments.
 
 ![Total Budget by Department](total-budget-by-department.png)
-
-**Total Budget by Department**
-
-This visualization makes it possible to compare the overall budget levels across departments.
 
 ### 3. Annual Budget for All Departments
 
 The second visualization groups the data by year and calculates the total annual budget across all departments.
 
-A line chart was then created to show how the combined annual budget changed over time.
+A line chart was created to show how the combined annual budget changed over time.
 
 ![Annual Budget for All Departments](annual-budget-all-department.png)
 
-**Annual Budget for All Departments**
-
 ### 4. Annual Budget per Department
 
-The third visualization examines the budget of each department across the years.
+The third visualization shows how the budget for each department changed over time.
 
-A line chart was created with department represented by colour, allowing the budget trends of individual departments to be compared over time.
+A line chart was created with department represented by color, allowing the budget trends of individual departments to be compared over time.
 
 ![Annual Budget per Department](annual-budget-per-department.png)
-
-**Annual Budget per Department**
 
 ## R Techniques Demonstrated
 
