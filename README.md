@@ -55,7 +55,7 @@ The `dplyr` and `ggplot2` libraries were then loaded for data transformation and
 The first visualization groups the data by department and calculates the total budget allocated to each department.
 
 The resulting data was then used to create a bar chart titled:
-![Total Budget by Department](images/total-budget-by-department.png)
+![Total Budget by Department](total-budget-by-department.png)
 
 **Total Budget by Department**
 
@@ -68,7 +68,7 @@ The second visualization groups the data by year and calculates the total annual
 A line chart was then created to show how the combined annual budget changed over time.
 
 The chart is titled: 
-![Annual Budget for All Departments](images/annual-budget-all-departments.png)
+![Annual Budget for All Departments](annual-budget-all-department.png)
 
 **Annual Budget for All Departments**
 
@@ -79,7 +79,7 @@ The third visualization examines the budget of each department across the years.
 A line chart was created with department represented by colour, allowing the budget trends of individual departments to be compared over time.
 
 The chart is titled:
-![Annual Budget per Department](images/annual-budget-per-department.png)
+![Annual Budget per Department](annual-budget-per-department.png)
 
 **Annual Budget per Department**
 
